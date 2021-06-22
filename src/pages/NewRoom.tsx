@@ -16,7 +16,7 @@ export function NewRoom() {
             <main>
                 <div className="main-content">
                     <img src={logoImg} alt="Letmeask" />
-                    <h2>Criar uma noca sala</h2>
+                    <h2>Criar uma nova sala</h2>
                     <form>
                         <input
                             type="text"
