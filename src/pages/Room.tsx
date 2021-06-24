@@ -127,7 +127,7 @@ export function Room() {
                     </div>
                 </form>
 
-                {JSON.stringify(questions)}
+                {questions.map()}
             </main>
         </div>
     );
